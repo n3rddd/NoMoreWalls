@@ -1,14 +1,20 @@
 proxies:
-- name: 'A - 🇷🇺 RU 01 TG: @nodpai'
-  network: ws
-  port: 8880
-  server: 45.67.215.30
+- client-fingerprint: firefox
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇷🇺RU_1|1.6MB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA
+    short-id: '!!str '
+  server: 178.213.18.91
+  servername: pro-ru-bridge.emrata.top
+  tls: true
   type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  ws-opts:
-    headers:
-      Host: vms.lifetime48.workers.dev
-    path: /
+  udp: true
+  uuid: 42c3337e-57f5-48d8-b7ad-46f75f5e7e8a
+  xudp: true
 - client-fingerprint: qq
   flow: xtls-rprx-vision
   name: RU_speednode_0067
