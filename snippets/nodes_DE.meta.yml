@@ -9,13 +9,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🦄35@oneclickvpnkeys
-  password: 042a1881-44e4-4781-bd40-bf75164faf4f
-  port: 443
-  server: 178.215.238.30
-  sni: germany1.noesissite.ru
-  tls: false
-  type: hysteria2
 - name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪3
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
@@ -36,7 +29,7 @@ proxies:
   sni: www.refersion.com
   tls: false
   type: hysteria2
-- name: 🇩🇪@V2RayyNGvpn🇩🇪
+- name: 🇩🇪 t.me.V2RayyNGvpn 🇩🇪
   obfs: salamander
   obfs-password: V2RayyNGvpn
   password: EaDTeupk9I
@@ -80,13 +73,24 @@ proxies:
   - h3
   auth-str: dongtaiwang.com
   auth_str: dongtaiwang.com
-  down: 1000
-  name: 🇩🇪DE_1|1.6MB/s
-  port: 20088
+  down: 55 Mbps
+  name: 🇩🇪DE_1|2.1MB/s
+  port: 26691
   protocol: udp
-  server: 5.83.129.153
+  server: 5.83.129.143
   skip-cert-verify: true
   sni: apple.com
   type: hysteria
+  up: 11 Mbps
+- alpn:
+  - h3
+  auth_str: dongtaiwang.com
+  down: '55'
+  name: 🇩🇪DE_2|1.7MB/s
+  port: 54177
+  server: 5.83.129.90
+  skip-cert-verify: true
+  sni: bing.com
+  type: hysteria
   udp: true
-  up: 500
+  up: '11'
