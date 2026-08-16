@@ -23,3 +23,13 @@ proxies:
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
+- client-fingerprint: chrome
+  name: 🇸🇬SG_1|1.9MB/s
+  network: tcp
+  password: PQ05174892
+  port: '443'
+  server: infinite-anteater.rooster465.autos
+  skip-cert-verify: false
+  sni: infinite-anteater.rooster465.autos
+  type: trojan
+  udp: true

@@ -23,17 +23,8 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- auth: bc751c4c5c80f17dfbc05785c368b613
-  name: 🇯🇵JP_3|3.7MB/s
-  password: bc751c4c5c80f17dfbc05785c368b613
-  port: 50160
-  server: 154.31.115.179
-  sni: 154-31-115-179.liao.kdns.fr
-  type: hysteria2
-  udp: true
 - client-fingerprint: chrome
-  name: 🇯🇵JP_4|5.2MB/s
-  network: tcp
+  name: 🇯🇵JP_1|3.7MB/s
   password: PQ05174892
   port: '443'
   server: merry-falcon.rooster465.autos

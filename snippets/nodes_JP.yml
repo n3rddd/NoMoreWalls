@@ -24,8 +24,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - client-fingerprint: chrome
-  name: 🇯🇵JP_4|5.2MB/s
-  network: tcp
+  name: 🇯🇵JP_1|3.7MB/s
   password: PQ05174892
   port: '443'
   server: merry-falcon.rooster465.autos

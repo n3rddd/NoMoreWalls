@@ -23,3 +23,18 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
+- client-fingerprint: chrome
+  name: 🇺🇸US_19|2.8MB/s
+  network: ws
+  password: 65c56e1f-5c41-40bc-b0b5-9346772476ca
+  port: 2053
+  server: cf.130209.xyz
+  skip-cert-verify: false
+  sni: v4.ipsb.us.ci
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko)
+        Chrome/70.0.3538.67 Safari/537.36
+    path: /api/v2/check_update
