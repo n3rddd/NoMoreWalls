@@ -161,6 +161,42 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: ' ConfigV2RayNG 🇩🇪'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: vpwzu6ug7tpoprsq
+  port: 52020
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: ' ConfigV2RayNG 🇩🇪 #1'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: vpwzu6ug7tpoprsq
+  port: 52021
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: ConfigV2RayNG 🇩🇪
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: vpwzu6ug7tpoprsq
+  port: 52022
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
 - client-fingerprint: firefox
   name: 🇩🇪DE_1|4.1MB/s
   network: xhttp
