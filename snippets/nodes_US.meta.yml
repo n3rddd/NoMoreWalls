@@ -15,16 +15,6 @@ proxies:
   sni: mkm.icu
   tls: false
   type: hysteria2
-- name: '美国 #2'
-  obfs: salamander
-  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
-  password: cd74c0a406664a5bc0bac098220a2468
-  port: 443
-  server: nl1.sferavpn.pro
-  skip-cert-verify: true
-  sni: nl1.sferavpn.pro
-  tls: false
-  type: hysteria2
 - name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
@@ -53,60 +43,199 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- auth: gf1:gfhysteria2024
-  name: 🇺🇸US_1|1.1MB/s
-  password: gf1:gfhysteria2024
-  port: 443
-  server: 66.94.121.46
-  skip-cert-verify: true
-  sni: www.broadcom.com
-  type: hysteria2
+- alterId: '0'
+  cipher: auto
+  name: 🇺🇸US_1|3.4MB/s
+  network: ws
+  port: '16648'
+  server: planb.mojcn.com.linuxlh.xin
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b5f7ad86-9e40-4684-98f9-83f8136a1054
+  ws-opts:
+    headers:
+      Host: eeee7339c9f412913069ff64b12fb71f.mobgslb.tbcache.com
+    path: /
+  xudp: true
 - alpn:
-  - h2
+  - http/1.1
   client-fingerprint: chrome
   encryption: none
-  name: 🇺🇸US_2|1.1MB/s
-  network: xhttp
+  name: 🇺🇸US_2|1.6MB/s
+  network: ws
   port: '443'
-  server: 69.46.46.5
-  servername: quartz-meadow-2cc8-production.up.railway.app
+  server: 104.21.56.104
+  servername: 5-M19.aLbANIa.KdNs.Fr
   tls: true
   type: vless
   udp: true
-  uuid: f0b04cce-5ee6-947d-74eb-b6dbd56133b2
-  xhttp-opts:
-    host: quartz-meadow-2cc8-production.up.railway.app
-    mode: stream-up
-    path: /xhttp-siz10/stream-up/f0b04cce-5ee6-947d-74eb-b6dbd56133b2
+  uuid: a90c264d-3853-4eef-9a3d-628b2d02d15e
+  ws-opts:
+    headers:
+      Host: 5-M19.AlBaNia.KDNs.Fr
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; CPH1607 Build/MMB29M; wv) AppleWebKit/537.36
+        (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36
+    path: /CjBjB9sn5pCvaSwScc
   xudp: true
-- name: US_speednode_0134
+- name: US_speednode_0140
+  password: None
   port: 443
-  server: voteshirleysew.club
+  server: purposebydesig.club
   tls: true
   type: http
   udp: true
-- name: 🇺🇸US_4|1.5MB/s
-  password: e1dee7c0-cff7-11eb-a8bf-f23c91cfbbc9
-  port: 443
-  server: 5446dfd3-tcxds0-tdd7ea-19xg1.sj.oshuawei.com
-  sni: 5446dfd3-tcxds0-tdd7ea-19xg1.sj.oshuawei.com
+- name: US_speednode_0143
+  port: 9002
+  server: 138.199.35.198
+  skip-cert-verify: true
   tls: true
   type: http
-  username: e1dee7c0-cff7-11eb-a8bf-f23c91cfbbc9
-- client-fingerprint: firefox
+  udp: true
+- name: 🇺🇸US_15|1.7MB/s
+  password: None
+  port: 443
+  server: zebpay.site
+  skip-cert-verify: false
+  tls: true
+  type: http
+  username: null
+- name: 🇺🇸US_6|3.2MB/s
+  password: 'null'
+  port: 9002
+  server: 138.199.35.197
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- name: 🇺🇸US_7|2.7MB/s
+  password: None
+  port: 443
+  server: efr-marktplatz.club
+  skip-cert-verify: false
+  tls: true
+  type: http
+  username: null
+- name: 🇺🇸US_8|4.3MB/s
+  password: None
+  port: 443
+  server: berniesbodybla.fun
+  skip-cert-verify: false
+  tls: true
+  type: http
+  username: null
+- name: 🇺🇸US_9|2.8MB/s
+  password: ''
+  port: 9002
+  server: 138.199.35.212
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+  username: ''
+- name: 🇺🇸US_10|3.9MB/s
+  port: 443
+  server: carolinafreigh.fun
+  sni: carolinafreigh.fun
+  tls: true
+  type: http
+- name: 🇺🇸US_11|2.1MB/s
+  password: 'null'
+  port: 9002
+  server: 138.199.35.209
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- name: 🇺🇸US_12|2.3MB/s
+  port: 443
+  server: goedkoopgeluid.icu
+  skip-cert-verify: true
+  sni: goedkoopgeluid.icu
+  tls: true
+  type: http
+- name: 🇺🇸US_13|3.1MB/s
+  port: 443
+  server: fullmanfirm.icu
+  skip-cert-verify: true
+  sni: fullmanfirm.icu
+  tls: true
+  type: http
+- name: 🇺🇸US_14|2.6MB/s
+  password: 73bfcc1c-5814-5f2a-b43a-3ef6af011db8
+  port: 8443
+  server: 480de765-tk7400-toh6wi-jx5r.isp.cdnkuaishou.com
+  tls: true
+  type: http
+  username: 73bfcc1c-5814-5f2a-b43a-3ef6af011db8
+- name: 🇺🇸US_16|3.1MB/s
+  password: None
+  port: 443
+  server: tzoa.fun
+  skip-cert-verify: false
+  tls: true
+  type: http
+  username: null
+- name: 🇺🇸US_17|1.0MB/s
+  port: 443
+  server: 149.88.21.129
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 🇺🇸US_18|2.2MB/s
+  password: None
+  port: 5252
+  server: 148.100.84.192
+  type: http
+  username: null
+- client-fingerprint: chrome
+  name: 🇺🇸US_19|2.0MB/s
+  network: ws
+  port: '443'
+  server: 104.21.69.218
+  servername: 7-m20.cd6b506e-5a88-4c5d-9e11-906f39613c04.kdns.fr
+  tls: true
+  type: vless
+  udp: true
+  uuid: 7e26fd8f-d75a-473d-84ba-9f4e3f47d086
+  ws-opts:
+    headers:
+      Host: 7-m20.cd6b506e-5a88-4c5d-9e11-906f39613c04.kdns.fr
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/46.0.2490.86 Safari/537.36
+    path: /8qMLgNapWf6SBxo8fhQlVPYO
+  xudp: true
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: firefox
+  encryption: none
   flow: xtls-rprx-vision
-  name: 🇺🇸US_5|2.7MB/s
+  name: 🇺🇸US_20|1.5MB/s
   network: tcp
   port: '443'
-  reality-opts:
-    public-key: vFnG0SzHIv43o3L8bw4reKp3EIFuSS-BCyBqbWUsYCo
-    short-id: '!!str 6591f200'
-  server: 84.32.61.87
-  servername: apiv10.jarvesitw.ru
+  server: 167.104.216.12
+  servername: kamaz4.api3-max.ru
   tls: true
   type: vless
   udp: true
-  uuid: c6037cf7-d931-4027-af06-6bfb0f10684c
+  uuid: 5999a497-a2da-41d0-92cb-5b758082f83c
+  xudp: true
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 🇺🇸US_21|2.7MB/s
+  network: tcp
+  port: '443'
+  server: kamaz4.api3-max.ru
+  servername: kamaz4.api3-max.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5999a497-a2da-41d0-92cb-5b758082f83c
   xudp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
@@ -151,6 +280,12 @@ proxies:
   port: 443
   server: fan.365747.xyz
   skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: US_speednode_0134
+  port: 443
+  server: voteshirleysew.club
   tls: true
   type: http
   udp: true
@@ -229,13 +364,6 @@ proxies:
   type: vless
   udp: true
   uuid: 9638a83e-f1f7-4cc8-a602-924965d9534f
-- name: US_speednode_0140
-  password: None
-  port: 443
-  server: purposebydesig.club
-  tls: true
-  type: http
-  udp: true
 - name: US_speednode_0141
   port: 443
   server: 38.28.193.188
@@ -258,13 +386,6 @@ proxies:
   type: vless
   udp: true
   uuid: f06c6039-a489-3d78-a676-ed43be6deca3
-- name: US_speednode_0143
-  port: 9002
-  server: 138.199.35.198
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: US_speednode_0144
