@@ -126,16 +126,27 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@proxy_kafee'
+- name: '@Daily_Configs #4'
   password: fmaznn1lrzys7ddy
   port: 52050
   server: giftcard.gateway-stream.com
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇩🇪DE_1|1.0MB/s
-  port: 443
-  server: 87.249.132.97
-  skip-cert-verify: true
+- client-fingerprint: chrome
+  encryption: none
+  name: 🇩🇪DE_1|1.0MB/s
+  network: xhttp
+  port: '443'
+  server: vpnon4u.niceworktodo.dpdns.org
+  servername: webproduction.niceworktodo.dpdns.org
   tls: true
-  type: http
+  type: vless
+  udp: true
+  uuid: d7b57385-9211-4fb1-9bec-8556c13d8031
+  xhttp-opts:
+    host: webproduction.niceworktodo.dpdns.org
+    mode: auto
+    path: /vpnon4u
+    x-padding-bytes: 100-1000
+  xudp: true
