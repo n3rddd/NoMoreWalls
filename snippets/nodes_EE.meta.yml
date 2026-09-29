@@ -1,11 +1,16 @@
 proxies:
-- name: 'A - 🇪🇪 EE 01 TG: @nodpai'
-  network: ws
-  port: 8880
-  server: 45.80.110.50
+- client-fingerprint: chrome
+  name: 🇪🇪EE_1|1.1MB/s
+  network: xhttp
+  port: 25395
+  reality-opts:
+    public-key: NPeupAuDrIhrFEXxPXUnsmuT0zSOkSQByegy5DPJQhU
+    short-id: '!!str b4'
+  server: 143.246.41.6
+  servername: amd.com
+  skip-cert-verify: false
+  tfo: false
+  tls: true
   type: vless
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  ws-opts:
-    headers:
-      Host: vms.lifetime51.workers.dev
-    path: /?ed=2560
+  udp: true
+  uuid: 900e2cca-4798-47f6-b972-5288a77c8093
