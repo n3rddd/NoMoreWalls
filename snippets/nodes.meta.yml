@@ -171,7 +171,15 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: '@prrofile_purple | FaST 💚 #1'
+- name: 🌟75@oneclickvpnkeys
+  password: 6c077487-06af-4fb1-9e46-d485d98f0a31
+  port: 51285
+  server: 108.181.5.106
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 🇸🇬186009 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: xK9mN2pLq5vR8wB3
   password: 8A9905B7-801B-41AF-BFC9-2034212770F6
@@ -179,13 +187,6 @@ proxies:
   server: sg4.dexlos.com
   skip-cert-verify: false
   sni: sg4.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 🇬🇧185812 | ⚡️Telegram = t.me/S...
-  password: 8b60d570-cbce-4791-b3e8-bcb80dd12ac0
-  port: 19443
-  server: uk-002.xiaoxiaobujidao.xyz
-  sni: uk-002.xiaoxiaobujidao.xyz
   tls: false
   type: hysteria2
 - name: Telegram 🆔@Cnetvpn 🇺🇲

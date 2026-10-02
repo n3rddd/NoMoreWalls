@@ -17,8 +17,8 @@ hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@144.31.232.216:443?insecure=0&s
 hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#%40Begoo_VPN%20%C2%B2%E2%81%B9%E2%81%B0
 hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?insecure=0&sni=giftcard.gisora.ir&obfs=salamander&obfs-password=09p333uviv2qal0y#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%B7%F0%9F%87%BA
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#Telegram%3A%40v2rayng3
-hysteria2://8A9905B7-801B-41AF-BFC9-2034212770F6@sg4.dexlos.com:20654?insecure=0&sni=sg4.dexlos.com&obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3#%40prrofile_purple%20%7C%20FaST%20%F0%9F%92%9A%20%231
-hysteria2://8b60d570-cbce-4791-b3e8-bcb80dd12ac0@uk-002.xiaoxiaobujidao.xyz:19443?sni=uk-002.xiaoxiaobujidao.xyz#%F0%9F%87%AC%F0%9F%87%A7185812%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
+hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@108.181.5.106:51285?insecure=1&sni=www.bing.com#%F0%9F%8C%9F75%40oneclickvpnkeys
+hysteria2://8A9905B7-801B-41AF-BFC9-2034212770F6@sg4.dexlos.com:20654?insecure=0&sni=sg4.dexlos.com&obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3#%F0%9F%87%B8%F0%9F%87%AC186009%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52087?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40Cnetvpn%20%F0%9F%87%BA%F0%9F%87%B2
 hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?insecure=0&sni=gift-catalog.aroonia.ir&obfs=salamander&obfs-password=6cmj1dymhm79hopl#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#%F0%9F%A9%B5%2B%40Azarakhsh_Proxy%2B%F0%9F%A9%B7
