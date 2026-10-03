@@ -133,7 +133,7 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 🇷🇺186172 | ⚡️Telegram = t.me/S...
+- name: '@meliproxyy'
   obfs: salamander
   obfs-password: eba1b4766d2a26d6c167e2d2e9efabf4
   password: 033dc6b532
@@ -148,6 +148,16 @@ proxies:
   port: 443
   server: 144.31.232.216
   sni: fi01.clgate.network
+  tls: false
+  type: hysteria2
+- name: 🇳🇱186400 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 7y0p9k93w7ryw8tz
+  password: 17537e14543a478b9c7a558870d814f3
+  port: 51791
+  server: mhzedir.qzz.io
+  skip-cert-verify: false
+  sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
 - name: '@Begoo_VPN ²⁹⁰'
