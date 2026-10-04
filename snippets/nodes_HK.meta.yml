@@ -110,18 +110,3 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: 🇭🇰HK_1|3.8MB/s
-  password: 3fc0f254-54c3-4cf3-896b-5999a2b4c757
-  port: 56726
-  server: test01.y1static-content-distribution.shop
-  skip-cert-verify: true
-  sni: hk11.pulsarcore.site
-  type: anytls
-  udp: true
-- name: 🇭🇰HK_2|2.7MB/s
-  password: admin
-  port: 8899
-  server: 47.242.19.215
-  skip-cert-verify: true
-  type: socks5
-  username: admin
