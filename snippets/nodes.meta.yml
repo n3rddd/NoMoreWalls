@@ -117,13 +117,6 @@ proxies:
   sni: srv-8718e6.frd21.ru
   tls: false
   type: hysteria2
-- name: 🌟39@oneclickvpnkeys
-  password: 06e88dd6-e264-4981-8c26-d7ab17348ab2
-  port: 443
-  server: 144.31.232.216
-  sni: fi01.clgate.network
-  tls: false
-  type: hysteria2
 - name: '@ange1Vpn کانال تلگرام ما'
   obfs: salamander
   obfs-password: 7y0p9k93w7ryw8tz
@@ -196,14 +189,6 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 🌟75@oneclickvpnkeys
-  password: 6c077487-06af-4fb1-9e46-d485d98f0a31
-  port: 51285
-  server: 108.181.5.106
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '@vmesskhodam'
   obfs: salamander
   obfs-password: xK9mN2pLq5vR8wB3
@@ -234,35 +219,14 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: 🪙14@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.127.141
-  sni: hop-germany-september.dynuddns.com
-  tls: false
-  type: hysteria2
-- name: 🪙8@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.127.143
-  skip-cert-verify: true
-  sni: hop-germany-september.dynuddns.com
-  tls: false
-  type: hysteria2
-- name: 🪙6@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.127.144
-  skip-cert-verify: true
-  sni: hop-germany-september.dynuddns.com
-  tls: false
-  type: hysteria2
-- name: 🪙5@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.127.146
-  skip-cert-verify: true
-  sni: hop-germany-september.dynuddns.com
+- name: کانال تلگرام ما ange1Vpn@
+  obfs: salamander
+  obfs-password: 7y0p9k93w7ryw8tz
+  password: 9ed56ba1c7c44bbab670d83a435591b8
+  port: 51791
+  server: mhzedir.qzz.io
+  skip-cert-verify: false
+  sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -325,7 +289,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇨🇭186770 | ⚡️Telegram = t.me/S...
+- name: 🦜15@oneclickvpnkeys
   obfs: salamander
   obfs-password: mbQXP2ASuHbF6ZPq
   password: capadm96216165
@@ -335,7 +299,7 @@ proxies:
   sni: vpn.local
   tls: false
   type: hysteria2
-- name: 🇷🇺@FreakConfig
+- name: 🇺🇸US-🚀@VPNine1
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -418,13 +382,6 @@ proxies:
   port: 8443
   server: 77.74.123.102
   skip-cert-verify: false
-  sni: grape-test-italy.dynuddns.net
-  tls: false
-  type: hysteria2
-- name: 🌟14@oneclickvpnkeys
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 77.74.123.103
   sni: grape-test-italy.dynuddns.net
   tls: false
   type: hysteria2
